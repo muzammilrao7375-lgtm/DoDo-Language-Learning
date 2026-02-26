@@ -3,7 +3,7 @@
    Inspired by original design, fully responsive
 --------------------------------------------------- */
 
-/* ----- Base &  life reset ----- */
+/* ----- Base && reset ----- */
 * {
   margin: 0;
   padding: 0;
